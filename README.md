@@ -10,11 +10,11 @@ A análise abrange métricas de engajamento como curtidas, comentários e visual
 
 - **Python**: Para manipulação e análise dos dados.
 - **Pandas**: Biblioteca para análise e limpeza de dados.
-- **Jupyter Notebook + VS Code**: Para documentação e visualização do processo de análise.
+- **Jupyter Notebook**: Para documentação e visualização do processo de análise.
 
 ## 📈 Estrutura da Análise
 
-1. **Importação dos dados**.
+1. **Importação dos dados**: Carregamento e revisão da base de dados.
 2. **Exploração inicial**: Visualização e estrutura dos dados.
 3. **Análise estatística**: Cálculo de métricas descritivas.
 4. **Insights e Conclusões**: Identificação de padrões de engajamento.
@@ -27,16 +27,20 @@ Os dados incluem informações sobre:
 - Número de curtidas, comentários e visualizações
 - Tags e presença de campanhas
 
-## 🎯 Objetivo
+## 🎯 Objetivo e Principais Conclusões
 
-Obter insights valiosos para otimizar a performance das postagens no Instagram.
+**Objetivo**: Obter insights valiosos para otimizar a performance das postagens no Instagram e aumentar o engajamento.
+
+**Principais Conclusões**:
+- **Vídeos** e **postagens em carrossel** geraram mais interações em comparação com fotos simples, indicando preferência do público por conteúdos mais dinâmicos.
+- Postagens com tags de **produtos** e **campanhas promocionais** tiveram maior alcance, sugerindo que conteúdos segmentados ou promocionais impulsionam o engajamento.
+- **Postagens com visualizações altas** frequentemente correlacionaram-se com mais curtidas e comentários, especialmente em vídeos, destacando a importância do conteúdo em vídeo para atrair interações.
 
 ---
 
 👥 Contribuições são bem-vindas! Sinta-se à vontade para fazer um fork e sugerir melhorias.
 
 #DataAnalysis #InstagramAnalytics #Python #Engagement
-
 _________________________________________________________________________________________________________________________________________________________________________________________________
 
 # Instagram Engagement Analysis 📊
@@ -51,7 +55,7 @@ The analysis covers engagement metrics such as likes, comments, and views. We al
 
 - **Python**: For data manipulation and analysis.
 - **Pandas**: Library for data cleaning and analysis.
-- **Jupyter Notebook + VS Code**: For documenting and visualizing the analysis process.
+- **Jupyter Notebook**: For documenting and visualizing the analysis process.
 
 ## 📈 Analysis Structure
 
@@ -68,9 +72,14 @@ The data includes information on:
 - Number of likes, comments, and views
 - Tags and presence of campaigns
 
-## 🎯 Objective
+## 🎯 Objectives and Key Insights
 
-Gain valuable insights to optimize Instagram post performance and engagement.
+**Objective**: Gain valuable insights to optimize Instagram post performance and engagement.
+
+**Key Findings**:
+- **Videos** and **carousel posts** generate higher interaction than simple photos, suggesting users prefer dynamic or multi-image content.
+- Posts tagged with **products** and **promotional campaigns** showed a higher reach, indicating targeted or promotional content drives engagement.
+- Posts with higher **views** often correlated with more likes and comments, especially for videos, highlighting the importance of video content for engagement.
 
 ---
 
